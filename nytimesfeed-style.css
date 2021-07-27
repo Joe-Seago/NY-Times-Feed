@@ -1,0 +1,43 @@
+/**
+ * NY Times Feed plugin styles
+ */
+ 
+ .nytfeed {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    align-content: stretch;
+}
+
+.nytfeed__article {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    align-content: stretch;
+}
+
+.nytfeed__title {
+    margin: 1rem 0;
+    text-transform: uppercase;
+}
+
+.nytfeed__link:hover {
+    text-decoration: none;
+}
+
+.nytfeed__desc {
+    margin-bottom: 1rem;
+    font-style: italic;
+}
+
+.nytfeed__byline {
+    font-weight: 600;
+}
+
+.nytfeed__img {
+    margin: 1rem 0 2rem 0;
+}
