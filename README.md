@@ -7,7 +7,7 @@ Requires at least: 3.0.1
 Tested up to: 5.8
 Stable tag: 4.3
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Customized news feed showing selected section of New York Times articles, displayed on posts or pages via shortcode.
 
