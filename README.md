@@ -1,6 +1,6 @@
 === NY Times Feed ===
 
-Contributors: joeseago;
+Contributors: joeseago
 Donate link: https://joeseago.com/
 Tags: news, shortcode
 Requires at least: 3.0.1
